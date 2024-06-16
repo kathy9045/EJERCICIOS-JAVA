@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CrearArchivoTexto",
+            "request": "launch",
+            "mainClass": "CrearArchivoTexto",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "EstadisticasArchivoTexto",
+            "request": "launch",
+            "mainClass": "EstadisticasArchivoTexto",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "EstadisticasArchivoTexto",
+            "request": "launch",
+            "mainClass": "EstadisticasArchivoTexto",
+            "projectName": "biblioteca"
+        },
+        {
+            "type": "java",
+            "name": "Ahorcado",
+            "request": "launch",
+            "mainClass": "Ahorcado",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "GestorContactos",
+            "request": "launch",
+            "mainClass": "GestorContactos",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "calculadora",
+            "request": "launch",
+            "mainClass": "calculadora.java.calculadora",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Contacto",
+            "request": "launch",
+            "mainClass": "Contacto",
+            "projectName": "biblioteca"
+        },
+        {
+            "type": "java",
+            "name": "Ahorcado",
+            "request": "launch",
+            "mainClass": "Ahorcado",
+            "projectName": "biblioteca"
+        },
+        {
+            "type": "java",
+            "name": "GestorContactos",
+            "request": "launch",
+            "mainClass": "GestorContactos",
+            "projectName": "biblioteca"
+        },
+        {
+            "type": "java",
+            "name": "contacto",
+            "request": "launch",
+            "mainClass": "contacto",
+            "projectName": "biblioteca"
+        },
+        {
+            "type": "java",
+            "name": "calculadora",
+            "request": "launch",
+            "mainClass": "calculadora.java.calculadora",
+            "projectName": "biblioteca"
+        },
+        {
+            "type": "java",
+            "name": "calculadora",
+            "request": "launch",
+            "mainClass": "biblioteca.java.calculadora",
+            "projectName": "biblioteca"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
